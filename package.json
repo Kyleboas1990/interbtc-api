@@ -42,7 +42,7 @@
   "engineStrict": true,
   "dependencies": {
     "@interlay/esplora-btc-api": "0.4.0",
-    "@interlay/interbtc-types": "1.3.0",
+    "@interlay/interbtc-types": "1.5.9",
     "@interlay/monetary-js": "0.5.1",
     "@polkadot/api": "6.9.2",
     "@types/big.js": "6.1.2",
